@@ -101,6 +101,3 @@ For more information, look this [link](https://www.hipercultura.com/fenomenos-na
 
 ## We're online!
 See the project in [Azure](http://aurora-project.azurewebsites.net/swagger/index.html).
-
-## About:
-The Aurora project was developed by [Alex Alves](https://www.linkedin.com/in/alexalvess/).
